@@ -27,7 +27,7 @@ class _BottomState extends State<Bottom> {
         ),
         BottomNavigationBarItem(
           title: Text(
-            'Help Center',
+            'Help Center 1',
             style: TextStyle(color: Colors.grey),
           ),
           icon: Icon(Icons.help),
@@ -42,7 +42,6 @@ class _BottomState extends State<Bottom> {
       ],
       selectedItemColor: Colors.black,
       unselectedItemColor: Colors.grey,
-
     );
   }
 }
