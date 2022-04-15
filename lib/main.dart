@@ -5,7 +5,6 @@ import 'package:abc/Constant/constant.dart';
 import 'package:abc/Splash/splash_screen.dart';
 import 'package:abc/UI/bottom_nav.dart';
 import 'package:abc/UI/home.dart';
-import 'package:provider/provider.dart';
 
 import 'provider/provider.dart';
 
